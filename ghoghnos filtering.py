@@ -1,6 +1,7 @@
 # salam ❤️
 #almaytm                               
 
+
 import os
 # almayt
 os.system("pip install colored")
